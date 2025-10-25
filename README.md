@@ -1,6 +1,6 @@
 # BabyModernBERTa
 
-Implemented BabyModernBERTa, following [ModernBERT](https://arxiv.org/abs/2412.13663).
+Implemented BabyModernBERTa, following <a href="https://arxiv.org/abs/2412.13663" target="_blank">ModernBERT</a>.
 
 Especially, BabyModernBERTa adopts
 - Pre-Layer Norm.
@@ -8,4 +8,6 @@ Especially, BabyModernBERTa adopts
 - GeGLU (Gated Linear Unit + GLU architecture).
 - Local/Global attention.
 
-See: [BabyBERTa](https://aclanthology.org/2021.conll-1.49/)
+
+See: <a href="https://aclanthology.org/2021.conll-1.49/" target="_blank">BabyBERTa</a>.
+
